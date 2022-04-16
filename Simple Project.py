@@ -79,3 +79,5 @@ if my_choice == "scissors":
 	else:
 		print(rock_emoji)
 		print("You Lose")
+else:
+	print("type proper u baboon")
